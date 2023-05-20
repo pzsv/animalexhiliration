@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pete/Library/Mobile Documents/com~apple~CloudDocs/<3 Faruq <3/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration.csproj": {}
+  },
+  "projects": {
+    "/Users/pete/Library/Mobile Documents/com~apple~CloudDocs/<3 Faruq <3/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pete/Library/Mobile Documents/com~apple~CloudDocs/<3 Faruq <3/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration.csproj",
+        "projectName": "AnimalExhiliration",
+        "projectPath": "/Users/pete/Library/Mobile Documents/com~apple~CloudDocs/<3 Faruq <3/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration.csproj",
+        "packagesPath": "/Users/pete/.nuget/packages/",
+        "outputPath": "/Users/pete/Library/Mobile Documents/com~apple~CloudDocs/<3 Faruq <3/AnimalExhiliration/AnimalExhiliration/AnimalExhiliration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pete/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
